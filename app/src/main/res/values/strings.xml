@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">haslo</string>
+    <string name="password_strength_weak">Słabe</string>
+    <string name="password_strength_medium">Średnio</string>
+    <string name="password_strength_strong">Mocne</string>
+    <string name="password_strength_very_strong">Super mocne</string>
+</resources>
